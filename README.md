@@ -37,3 +37,9 @@
         <li>:arrow_right: <b> WebAPI =></b> <i>It is the Service layer for communication with the client.</i></li>
     </ul>
 
+<h3>:star2: People I took as an example while preparing the project :</h3>
+    <ul>
+        <li>:arrow_right: <a href="https://github.com/engindemirog">Engin Demiroğ</a>  </li>
+        <li>:arrow_right: <a href="https://github.com/gncyyldz">Gençay Yıldız</a></li>
+        <li>:arrow_right: <a href="https://github.com/alpaslanakgun">Alpaslan Akgün</a></li>
+    </ul>
